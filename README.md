@@ -1,2 +1,2 @@
 # python_projects
-Jupyter Notebook
+Machine Learning Projects that uses different models for prediction
