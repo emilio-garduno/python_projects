@@ -1,0 +1,32 @@
+Name:		Luis Emilio Garduno Garcia
+Student ID:	300352335
+
+Project Title: 
+		Predicting Optimal Loan Amount 	
+
+Reference: 	
+		https://data.world/sonaksh/bank-customer-credit-details/workspace/file?filename=credit_card_dataset.csv
+
+Problem: 	As a loan issuer we need to predict the optimal loan amount, and determine which occupation is convenient to start a marketing campaign 
+
+Dataset information: 		
+
+Input variables
+
+1. Customer_ID (alphanumeric value to identify the customer)
+2. Age (numeric)
+3. Gender (categorical: male, female)
+4. Occupation (categorical: type of job from different fields including health, education, financial, clerical, engineering, and so forth)
+5. Marital Status (categorical: single, married)
+6. Family Size (numeric: number of members in the customer's family)
+7. Income (numeric: Income in dollars on a yearly base)
+8. Expenditure (numeric: Expenditure in dollars on a yearly base)
+9. Use Frequency (numeric: frequency credit card use)
+10. Loan Category (categorical: current loan type contracted by the customer)
+11. Loan Amount (numeric:  amount of the given credit)
+12. Overdue (numeric: historical payment delay, where 1 = delay for one month, 2 = delay for two months, and so on)
+13. Debt Record (numeric: required payment by period)
+14. Returned Cheque (numeric: number of returned cheques)
+15. Dishonour of Bill (	numeric: this field uses a sliding scale with values from 0 to 9 to measure current Dishonor of Bill status.
+				When the customer fails to make the payment on the date of maturity of the bill, where:
+				0 = pay duly, 1 = customer did not pay 1 month, 2 = customer did not pay 2 months, etc.)
